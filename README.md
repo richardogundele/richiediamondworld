@@ -1,2 +1,2 @@
-# richiediamondworld
-The Richie Diamond Website
+# Diamond Foundation
+The Diamond foundation Website
